@@ -5,17 +5,28 @@ I'm a **Computer Science student** passionate about **software engineering** and
 ### 🛠️ Skills
 
 - **Languages**: Java, Python, C++
-- **Technologies**: MySQL, Git, REST APIs
+- **Technologies**: HTML, CSS, JavaScript, MySQL, Git, REST APIs
 - **Concepts**: Object-Oriented Programming, Data Structures, Algorithms
 
 ### 💡 Projects
 
-- **[Project Title](#)**: Brief description of what the project does and what technologies were used.
-- **[Another Project](#)**: Brief description, with a focus on interesting or notable features.
+- **[ATM Simulation with C++](#)**: Developed an ATM simulation for basic banking operations using C++.
+- **[Programming Learning Website](#)**: Built a front-end website for students to access programming resources using HTML, CSS, and JavaScript.
+- **[YEMEN WORLD](#)**: Developed a website for selling Yemeni products with features like product listings and shopping cart using HTML, CSS, and JavaScript.
+- **[Iris Flower Classification](#)**: Built a machine learning model to classify iris species using Python, performing data preprocessing, visualization, and model evaluation.
 
 ### 📚 Education
 
-- **Bachelor's in Computer Science**, [Your University]
+- **Bachelor's in Computer Science**, [IQRA University](https://www.iqra.edu.pk/)
+  - **In Progress** (Start Year: 2021, Expected End Year: 2025)
+- **Saudi High School**, Islamabad
+  - **Completed** (Start Year: 2017, End Year: 2020)
+
+### 🗣️ Languages
+
+- **Native**: Arabic
+- **Advanced**: English (speaking/writing)
+- **Intermediate**: Urdu (speaking)
 
 ### 📫 Contact
 
